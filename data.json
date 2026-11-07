@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "date": "6 Nov 2026",
+  "updated": "2026-11-07T05:41:49.214Z",
+  "talk": [
+    {
+      "PA Name": "Sushila Kewat",
+      "Reporting Manager": "Devoo Ravindra",
+      "Total Talktime": "2:46:13",
+      "VC Duration": "1:06:00",
+      "Total Calls": "104",
+      "Total Connected Calls": "46",
+      "Total Duration": "3:52:13"
+    },
+    {
+      "PA Name": "Mritunjay Kumar Pandey",
+      "Reporting Manager": "Kiran",
+      "Total Talktime": "2:49:49",
+      "VC Duration": "0:40:00",
+      "Total Calls": "82",
+      "Total Connected Calls": "33",
+      "Total Duration": "3:29:49"
+    },
+    {
+      "PA Name": "Pradeep Kumar",
+      "Reporting Manager": "Natarajan Ravishankar",
+      "Total Talktime": "3:25:51",
+      "VC Duration": "0:00:00",
+      "Total Calls": "62",
+      "Total Connected Calls": "30",
+      "Total Duration": "3:25:51"
+    }
+  ],
+  "dials": [
+    {
+      "PA Name": "Anish Anandrao Nimje",
+      "Reporting Manager": "Devoo Ravindra",
+      "Total Talktime": "2:23:27",
+      "VC Duration": "1:00:00",
+      "Total Calls": "210",
+      "Total Connected Calls": "29",
+      "Total Duration": "3:23:27"
+    },
+    {
+      "PA Name": "Alpesh Humane",
+      "Reporting Manager": "Devoo Ravindra",
+      "Total Talktime": "1:59:49",
+      "VC Duration": "0:00:00",
+      "Total Calls": "210",
+      "Total Connected Calls": "60",
+      "Total Duration": "1:59:49"
+    },
+    {
+      "PA Name": "Vivek Kumar Choudhary",
+      "Reporting Manager": "Devoo Ravindra",
+      "Total Talktime": "1:45:21",
+      "VC Duration": "0:00:00",
+      "Total Calls": "207",
+      "Total Connected Calls": "56",
+      "Total Duration": "1:45:21"
+    }
+  ],
+  "wa": [
+    {
+      "PA Name": "Anish Anandrao Nimje",
+      "Reporting Manager": "Devoo Ravindra",
+      "Booked WA": "5",
+      "Attended WA": "4",
+      "WA %": "80%",
+      "": ""
+    },
+    {
+      "PA Name": "Diptikanta Jena",
+      "Reporting Manager": "Gagandeep K",
+      "Booked WA": "6",
+      "Attended WA": "3",
+      "WA %": "50%",
+      "": ""
+    },
+    {
+      "PA Name": "Debaroti Chakraborty",
+      "Reporting Manager": "Gagandeep K",
+      "Booked WA": "3",
+      "Attended WA": "2",
+      "WA %": "66%",
+      "": ""
+    }
+  ]
+}
